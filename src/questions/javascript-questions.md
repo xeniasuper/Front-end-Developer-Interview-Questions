@@ -51,7 +51,7 @@ permalink: /questions/javascript-questions/index.html
 * Why you might want to create static class members?
 
 ## Coding questions
-* Make this work:
+* ~~Make this work:~~
 ```javascript
 duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
 ```
