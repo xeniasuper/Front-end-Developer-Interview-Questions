@@ -11,7 +11,7 @@ permalink: /questions/javascript-questions/index.html
 * ~~What's the difference between a variable that is: `null`, `undefined` or undeclared?~~
   * ~~How would you go about checking for any of these states?~~
 * ~~What is a closure, and how/why would you use one?~~
-* What language constructions do you use for iterating over object properties and array items?
+* ~~What language constructions do you use for iterating over object properties and array items?~~
 * Can you describe the main difference between the `Array.forEach()` loop and `Array.map()` methods and why you would pick one versus the other?
 * What's a typical use case for anonymous functions?
 * What's the difference between host objects and native objects?
