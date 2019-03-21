@@ -21,8 +21,8 @@ permalink: /questions/javascript-questions/index.html
 * ~~Explain `Function.prototype.bind`.~~
 * ~~What's the difference between feature detection, feature inference, and using the UA string?~~
 * ~~Explain "hoisting".~~
-* Describe event bubbling.
-* Describe event capturing.
+* ~~Describe event bubbling.~~
+* ~~Describe event capturing.~~
 * What's the difference between an "attribute" and a "property"?
 * What are the pros and cons of extending built-in JavaScript objects?
 * ~~What is the difference between `==` and `===`?~~
