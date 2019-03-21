@@ -19,8 +19,8 @@ permalink: /questions/javascript-questions/index.html
 * ~~Explain the differences on the usage of `foo` between `function foo() {}` and `var foo = function() {}`~~
 * ~~Can you explain what `Function.call` and `Function.apply` do? What's the notable difference between the two?~~
 * ~~Explain `Function.prototype.bind`.~~
-* ~~What's the difference between feature detection, feature inference, and using the UA string?
-* Explain "hoisting".
+* ~~What's the difference between feature detection, feature inference, and using the UA string?~~
+* ~~Explain "hoisting".~~
 * Describe event bubbling.
 * Describe event capturing.
 * What's the difference between an "attribute" and a "property"?
@@ -40,6 +40,7 @@ permalink: /questions/javascript-questions/index.html
 * What are the differences between ES6 class and ES5 function constructors?
 * ~~Can you offer a use case for the new arrow `=>` function syntax? How does this new syntax differ from other functions?~~
 * What advantage is there for using the arrow syntax for a method in a constructor?
+  - https://medium.com/tfogo/advantages-and-pitfalls-of-arrow-functions-a16f0835799e
 * What is the definition of a higher-order function?
 * Can you give an example for destructuring an object or an array?
 * Can you give an example of generating a string with ES6 Template Literals?
