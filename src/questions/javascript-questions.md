@@ -22,7 +22,7 @@ permalink: /questions/javascript-questions/index.html
 * ~~Explain "hoisting".~~
 * ~~Describe event bubbling.~~
 * ~~Describe event capturing.~~
-* What's the difference between an "attribute" and a "property"?
+* ~~What's the difference between an "attribute" and a "property"?~~
 * ~~What is the difference between `==` and `===`?~~
 * ~~Why is it called a Ternary operator, what does the word "Ternary" indicate?~~
 * ~~Explain the difference between mutable and immutable objects.~~
