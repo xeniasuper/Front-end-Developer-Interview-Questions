@@ -30,8 +30,8 @@ permalink: /questions/javascript-questions/index.html
   * What are the pros and cons of immutability?
   * How can you achieve immutability in your own code?
 * Explain the difference between synchronous and asynchronous functions.
-* What is event loop?
-  * What is the difference between call stack and task queue?
+* ~~What is event loop?~~
+  * ~~What is the difference between call stack and task queue?~~
   * https://habr.com/ru/company/ruvds/blog/340508/
 * ~~What are the differences between variables created using `let`, `var` or `const`?~~
 * What are the differences between ES6 class and ES5 function constructors?
