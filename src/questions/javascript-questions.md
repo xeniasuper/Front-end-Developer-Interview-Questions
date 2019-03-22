@@ -25,8 +25,8 @@ permalink: /questions/javascript-questions/index.html
 * What's the difference between an "attribute" and a "property"?
 * ~~What is the difference between `==` and `===`?~~
 * ~~Why is it called a Ternary operator, what does the word "Ternary" indicate?~~
-* Explain the difference between mutable and immutable objects.
-  * What is an example of an immutable object in JavaScript?
+* ~~Explain the difference between mutable and immutable objects.~~
+  * ~~What is an example of an immutable object in JavaScript?~~
   * What are the pros and cons of immutability?
   * How can you achieve immutability in your own code?
 * Explain the difference between synchronous and asynchronous functions.
